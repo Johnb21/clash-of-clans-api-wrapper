@@ -9,7 +9,7 @@
             "email": "johnb2108@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.5.0"
         "guzzlehttp/guzzle": "^6.1",
