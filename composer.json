@@ -1,0 +1,20 @@
+{
+    "name": "johnb21/clash-of-clans-api-wrapper",
+    "description": "API Wrapper Bundle to easily make calls to the Clash of Clans API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnathan Belisle",
+            "email": "johnb2108@gmail.com",
+            "role": "Developer"
+        }
+    ]
+    "require": {
+        "php": ">=5.5.0"
+        "guzzlehttp/guzzle": "^6.1",
+    },
+    "autoload": {
+        "psr-4": {"ClashOfClans\\APIWrapperBundle\\":""}
+    }
+}
